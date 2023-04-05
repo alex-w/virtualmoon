@@ -1,0 +1,1522 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: pch\n"
+"PO-Revision-Date: 2012-07-13 21:00+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Russian <kde-i18n-doc@kde.org>\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: ru\n"
+
+#: u_translation.rsabortslew
+msgid "Abort Slew"
+msgstr "Прервать наведение"
+
+#: u_translation.rsabout
+msgctxt "u_translation.rsabout"
+msgid "About"
+msgstr "О программе"
+
+#: u_translation.rsadvanced
+msgid "Advanced"
+msgstr ""
+
+#: u_translation.rsairburshreli
+msgid "Airbursh relief with albedo"
+msgstr ""
+
+#: u_translation.rsairburshreli2
+msgid "Airbursh relief without albedo"
+msgstr ""
+
+#: u_translation.rsamplificatio
+msgid "Vertical amplification"
+msgstr "Вертикальное усиление"
+
+#: u_translation.rsapparentsize
+msgid "Apparent size :"
+msgstr "Видимый размер :"
+
+#: u_translation.rsarea
+msgid "Area"
+msgstr "Площадь"
+
+#: u_translation.rsascomdrivere
+msgid "The ASCOM driver report an error"
+msgstr "Драйвер ASCOM сообщил об ошибке"
+
+#: u_translation.rsascomremote
+#, object-pascal-format
+msgid "ASCOM Alpaca is available on %s"
+msgstr "ASCOM Alpaca доступен на %s"
+
+#: u_translation.rsascomtelesc
+msgid "ASCOM telescope interface"
+msgstr "ASCOM-интерфейс телескопа"
+
+#: u_translation.rsascsvfile
+msgid "as CSV file"
+msgstr "как CSV-файл"
+
+#: u_translation.rsaspngpicture
+msgid "as PNG picture"
+msgstr "как PNG изображение"
+
+#: u_translation.rsattachinform
+msgid "Attach information and tools"
+msgstr "Прикрепить информацию и инструменты"
+
+#: u_translation.rscaption
+msgid "Caption"
+msgstr "Подпись"
+
+#: u_translation.rsccdfield
+msgid "CCD field"
+msgstr "Поле ПЗС"
+
+#: u_translation.rsccdname
+msgid "CCD name"
+msgstr "Название ПЗС"
+
+#: u_translation.rscheckforopti
+msgid "Check for optional features"
+msgstr "Проверить наличие дополнительных функций"
+
+#: u_translation.rsclementineph
+msgid "Clementine photographic"
+msgstr ""
+
+#: u_translation.rsconfigure
+msgid "Configure"
+msgstr "Настроить"
+
+#: u_translation.rsconnect
+msgid "Connect"
+msgstr "Подключить"
+
+#: u_translation.rsconnectionto
+msgid "Connection to INDI server failed!"
+msgstr "Подключиться к серверу INDI не удалось!"
+
+#: u_translation.rscountry
+msgid "Country"
+msgstr "Страна"
+
+#: u_translation.rsdecreasefont
+msgid "Decrease font size"
+msgstr "Уменьшить размер шрифта"
+
+#: u_translation.rsdefault
+msgid "Default"
+msgstr "По-умолчанию"
+
+#: u_translation.rsdegree
+msgid "d"
+msgstr "°"
+
+#: u_translation.rsdetachinform
+msgid "Detach information and tools"
+msgstr "Открепить информацию и инструменты"
+
+#: u_translation.rsdisconnect
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: u_translation.rsdownload
+msgid "Download"
+msgstr "Скачать"
+
+#: u_translation.rsdownloadurl
+msgid "http://ap-i.net/avl/en/download"
+msgstr "http://ap-i.net/avl/en/download"
+
+#: u_translation.rsdoyoureallyw
+msgid "Do you really want to park the mount now?"
+msgstr "Вы действительно хотите припарковать монтировку сейчас?"
+
+#: u_translation.rsdriverselect
+msgid "Driver Selection"
+msgstr "Выбор дравйера"
+
+#: u_translation.rsdynamicrelie
+msgid "Dynamic relief display method"
+msgstr ""
+
+#: u_translation.rsejectathicka
+msgid "Ejecta thick at 1 radius :"
+msgstr "Толщина выброса в радиусе 1 :"
+
+#: u_translation.rsejectathicka2
+msgid "Ejecta thick at 3 radius :"
+msgstr "Толщина выброса в радиусе 3 :"
+
+#: u_translation.rsejectathicka3
+msgid "Ejecta thick at 5 radius :"
+msgstr "Толщина выброса в радиусе 5 :"
+
+#: u_translation.rselevation
+msgid "Elevation"
+msgstr "Высота"
+
+#: u_translation.rselgerdescrip
+msgid "Elger description (1895):"
+msgstr "Описание Элгера (1895):"
+
+#: u_translation.rsenddate
+msgid "End date"
+msgstr "Дата окончания"
+
+#: u_translation.rsephemeris
+msgid "Ephemeris:"
+msgstr "Эфемериды:"
+
+#: u_translation.rsexcavationde
+msgid "Excavation depth :"
+msgstr ""
+
+#: u_translation.rsexport
+msgid "Export"
+msgstr "Экспорт"
+
+#: u_translation.rsfirstusesett
+msgid "First use setting"
+msgstr "Настройка первого использования"
+
+#: u_translation.rsflipnsmoveme
+msgid "Flip N/S movement"
+msgstr "Перевернуть движение С/Ю"
+
+#: u_translation.rsfloordiamete
+msgid "Floor diameter :"
+msgstr "Диаметр основания :"
+
+#: u_translation.rsformat
+msgid "0"
+msgstr "0"
+
+#: u_translation.rsfrom
+msgid "From"
+msgstr "От"
+
+#: u_translation.rsfullscreen
+msgid "Full screen (Esc)"
+msgstr "Весь экран (Esc)"
+
+#: u_translation.rsgeology
+msgid "Geology :"
+msgstr "Геология :"
+
+#: u_translation.rsget
+msgid "Get"
+msgstr "Получить"
+
+#: u_translation.rsgrid
+msgid "Grid"
+msgstr "Сетка"
+
+#: u_translation.rsheight
+msgid "Height"
+msgstr "Высота"
+
+#: u_translation.rshelp_prefix
+msgid "EN"
+msgstr "RU"
+
+#: u_translation.rshide
+msgid "Hide"
+msgstr "Скрыть"
+
+#: u_translation.rshideinformat
+msgid "Hide information and tools"
+msgstr "Скрыть информацию и инструменты"
+
+#: u_translation.rshighresoluti
+msgid "High resolution texture"
+msgstr "Высококачественная текстура"
+
+#: u_translation.rshistorical
+msgid "Historical"
+msgstr "Исторический"
+
+#: u_translation.rshours
+msgid "Hours"
+msgstr "Часы"
+
+#: u_translation.rsiauinformati
+msgid "IAU information:"
+msgstr "Информация МАС:"
+
+#: u_translation.rsiautype
+msgid "IAU type :"
+msgstr "Тип МАС :"
+
+#: u_translation.rsidentity
+msgid "Identity:"
+msgstr "Идентификация:"
+
+#: u_translation.rsimpactbassin
+msgid "Impact bassin"
+msgstr "Ударный бассейн"
+
+#: u_translation.rsincreasefont
+msgid "Increase font size"
+msgstr "Увеличить размер шрифта"
+
+#: u_translation.rsindidriver
+msgid "INDI driver"
+msgstr "Драйвер INDI"
+
+#: u_translation.rsindidriverse
+msgid "INDI driver settings"
+msgstr "Настройки драйвера INDI"
+
+#: u_translation.rsindiready
+msgid "INDI server is ready"
+msgstr "Сервер INDI готов"
+
+#: u_translation.rsindiserverho
+msgid "INDI server host "
+msgstr "Хост сервера INDI "
+
+#: u_translation.rsindiserverpo
+msgid "INDI server port"
+msgstr "Порт сервера INDI"
+
+#: u_translation.rslabelsfont
+msgid "Labels font"
+msgstr "Шрифт меток"
+
+#: u_translation.rslanguage
+msgid "Russian"
+msgstr "Русский"
+
+#: u_translation.rslevel
+msgid "Level:"
+msgstr "Уровень:"
+
+#: u_translation.rslocalzenitho
+msgid "Local zenith on top"
+msgstr "Местный зенить сверху"
+
+#: u_translation.rslopamphotogr
+msgid "LOPAM photographic"
+msgstr ""
+
+#: u_translation.rslowsunelevat
+msgid "Low Sun elevation"
+msgstr ""
+
+#: u_translation.rslunarimpactc
+msgid "Lunar Impact Crater Database:"
+msgstr "База данных лунных ударных кратеров:"
+
+#: u_translation.rsmax
+msgid "max"
+msgstr "макс."
+
+#: u_translation.rsmax2
+msgid "Max"
+msgstr "Макс."
+
+#: u_translation.rsmeltingdepth
+msgid "Melting depth :"
+msgstr "Глубина плавления :"
+
+#: u_translation.rsmeteoriticim
+msgid "Meteoritic impact"
+msgstr "Метеоритный удар"
+
+#: u_translation.rsmin
+msgid "min"
+msgstr "мин."
+
+#: u_translation.rsminute
+#, fuzzy
+#| msgid "m"
+msgctxt "u_translation.rsminute"
+msgid "'"
+msgstr "'"
+
+#: u_translation.rsm_1
+msgid "from"
+msgstr "от"
+
+#: u_translation.rsm_10
+msgid "Longitude:"
+msgstr "Долгота:"
+
+#: u_translation.rsm_11
+msgid "Latitude:"
+msgstr "Широта:"
+
+#: u_translation.rsm_12
+msgid "Quadrant:"
+msgstr "Квадрант:"
+
+#: u_translation.rsm_13
+msgid "Area:"
+msgstr "Площадь:"
+
+#: u_translation.rsm_14
+msgid "Rukl map:"
+msgstr "Карта Рукла:"
+
+#: u_translation.rsm_15
+msgid "Viscardy page: "
+msgstr "Страница Вискарди:"
+
+#: u_translation.rsm_16
+msgid "Hatfield map:"
+msgstr "Карта Хатфилда:"
+
+#: u_translation.rsm_17
+msgid "Dimension:"
+msgstr "Размер:"
+
+#: u_translation.rsm_18
+msgid "Km"
+msgstr " км"
+
+#: u_translation.rsm_19
+msgid "Mi"
+msgstr " миль"
+
+#: u_translation.rsm_2
+msgid "born in"
+msgstr "родился"
+
+#: u_translation.rsm_20
+msgid "Height:"
+msgstr "Высота:"
+
+#: u_translation.rsm_21
+msgctxt "u_translation.rsm_21"
+msgid "m"
+msgstr " м"
+
+#: u_translation.rsm_22
+msgid "ft"
+msgstr " фут."
+
+#: u_translation.rsm_23
+msgid "Height/Wide ratio:"
+msgstr "Соотношение высоты/ширины:"
+
+#: u_translation.rsm_24
+msgid "Interest :"
+msgstr "Интерес :"
+
+#: u_translation.rsm_25
+msgid "Observation period:"
+msgstr "Период наблюдения:"
+
+#: u_translation.rsm_26
+msgid "or"
+msgstr "или"
+
+#: u_translation.rsm_27
+msgid "No formation actually near the terminator"
+msgstr "Рядом с терминатором нет образования"
+
+#: u_translation.rsm_28
+msgid "Minimal Instrument:"
+msgstr "Минимальный инструмент:"
+
+#: u_translation.rsm_29
+msgid "Right Ascension:"
+msgstr "Прямое восхождение:"
+
+#: u_translation.rsm_3
+msgid "Born at:"
+msgstr "Родился:"
+
+#: u_translation.rsm_30
+msgid "Declination:"
+msgstr "Склонение:"
+
+#: u_translation.rsm_31
+msgid "Distance:"
+msgstr "Расстояние:"
+
+#: u_translation.rsm_32
+msgid "Phase:"
+msgstr "Фаза:"
+
+#: u_translation.rsm_33
+msgid "Libration in Latitude:"
+msgstr "Либрация по широте:"
+
+#: u_translation.rsm_34
+msgid "Libration in Longitude:"
+msgstr "Либрация по долготе:"
+
+#: u_translation.rsm_35
+msgid "Illumination:"
+msgstr "Освещено:"
+
+#: u_translation.rsm_36
+msgid "Apparent diameter:"
+msgstr "Видимый диаметр:"
+
+#: u_translation.rsm_37
+msgid "Position angle:"
+msgstr "Позиционный угол:"
+
+#: u_translation.rsm_38
+msgid "Rise:"
+msgstr "Восход:"
+
+#: u_translation.rsm_39
+msgid "Transit:"
+msgstr "Кульминация:"
+
+#: u_translation.rsm_4
+msgid "in"
+msgstr "в"
+
+#: u_translation.rsm_40
+msgid "Set:"
+msgstr "Заход:"
+
+#: u_translation.rsm_41
+msgid "Rise azimuth:"
+msgstr "Азимут восхода:"
+
+#: u_translation.rsm_42
+msgid "Set azimuth:"
+msgstr "Азимут захода:"
+
+#: u_translation.rsm_43
+msgid "Field:"
+msgstr "Поле:"
+
+#: u_translation.rsm_44
+msgctxt "u_translation.rsm_44"
+msgid "Refresh rate"
+msgstr "Скорость обновления"
+
+#: u_translation.rsm_45
+msgid "Sub-solar latitude:"
+msgstr "Подсолнечная широта:"
+
+#: u_translation.rsm_46
+msgid "Lunation:"
+msgstr "Лунация:"
+
+#: u_translation.rsm_47
+msgid "days"
+msgstr "дней"
+
+#: u_translation.rsm_48
+msgid "Colongitude:"
+msgstr "Кодолгота:"
+
+#: u_translation.rsm_49
+msgid "Geological period:"
+msgstr "Геологический период:"
+
+#: u_translation.rsm_5
+msgid "Dead at:"
+msgstr "Умер:"
+
+#: u_translation.rsm_50
+msgctxt "u_translation.rsm_50"
+msgid "Time"
+msgstr "Время"
+
+#: u_translation.rsm_51
+msgctxt "u_translation.rsm_51"
+msgid "Date"
+msgstr "Дата"
+
+#: u_translation.rsm_52
+msgid "Measure the distance"
+msgstr "Измерить расстояние"
+
+#: u_translation.rsm_53
+msgid "Standard cursor mode"
+msgstr "Режим стандартного курсора"
+
+#: u_translation.rsm_54
+msgid "Image list"
+msgstr "Список изображений"
+
+#: u_translation.rsm_55
+msgid "Transit Altitude:"
+msgstr "Высота кульминации"
+
+#: u_translation.rsm_56
+msgid "Type:"
+msgstr "Тип:"
+
+#: u_translation.rsm_57
+msgid "Size:"
+msgstr "Размер:"
+
+#: u_translation.rsm_58
+msgid "Description:"
+msgstr "Описание:"
+
+#: u_translation.rsm_59
+msgid "Observation:"
+msgstr "Наблюдение:"
+
+#: u_translation.rsm_6
+msgid "Name Author:"
+msgstr "Автор:"
+
+#: u_translation.rsm_60
+msgid "Position:"
+msgstr "Местоположение"
+
+#: u_translation.rsm_61
+msgid "Atlas:"
+msgstr "Атлас:"
+
+#: u_translation.rsm_62
+msgid "Name Origine:"
+msgstr "Происхождение названия:"
+
+#: u_translation.rsm_63
+msgid "Detailed Name:"
+msgstr "Полное название:"
+
+#: u_translation.rsm_64
+msgid "Important Facts:"
+msgstr "Важные факты:"
+
+#: u_translation.rsm_65
+msgid "Lunar Orbiter:"
+msgstr "Lunar Orbiter:"
+
+#: u_translation.rsm_66
+msgid "Westfall Atlas:"
+msgstr "Атлас Вестфала:"
+
+#: u_translation.rsm_67
+msgid "Warning! The personal notes have changed. Do you want to save the change?"
+msgstr "Предупреждение! Личные записи изменились. Вы хотите сохранить изменения?"
+
+#: u_translation.rsm_7
+msgid "Name by Langrenus:"
+msgstr "Название по Лангрену:"
+
+#: u_translation.rsm_72
+msgid "Charles Wood article:"
+msgstr "Статья Чарльза Вуда:"
+
+#: u_translation.rsm_73
+msgid "Azimuth"
+msgstr "Азимут"
+
+#: u_translation.rsm_74
+msgid "Altitude"
+msgstr "Высота"
+
+#: u_translation.rsm_75
+msgid "From Database:"
+msgstr "Из базы данных:"
+
+#: u_translation.rsm_8
+msgid "Name by Hevelius:"
+msgstr "Название по Гевелию:"
+
+#: u_translation.rsm_9
+msgid "Name by Riccioli:"
+msgstr "Название по Риччоли:"
+
+#: u_translation.rsnamedformati
+msgid "Named formations"
+msgstr "Поименованные образования"
+
+#: u_translation.rsnametype
+msgid "Name type :"
+msgstr "Тип :"
+
+#: u_translation.rsnewinformati
+msgid "New information note"
+msgstr "Новая заметка"
+
+#: u_translation.rsnewobservati
+msgid "New observation note"
+msgstr "Новое наблюдение"
+
+#: u_translation.rsnodatabasese
+msgid "No database selected!"
+msgstr "База данных не выбрана!"
+
+#: u_translation.rsnopicturefou
+msgid "No picture found"
+msgstr "Изображение не найдено"
+
+#: u_translation.rsnotavailable
+msgid "Not available"
+msgstr "Не доступно"
+
+#: u_translation.rsnotexturetou
+msgid "No texture (to use with an overlay alone)"
+msgstr ""
+
+#: u_translation.rsnotiauapprou
+msgid "Not IAU approuved"
+msgstr "Не одобрено МАС"
+
+#: u_translation.rsorbitaltitud
+msgid "Orbit altitude"
+msgstr "Высота орбиты"
+
+#: u_translation.rsorbitinclina
+msgid "Orbit inclination"
+msgstr "Наклонение орбиты"
+
+#: u_translation.rspark
+msgid "Park"
+msgstr "Парковать"
+
+#: u_translation.rspeakdiameter
+msgid "Peak diameter :"
+msgstr "Диаметр пика :"
+
+#: u_translation.rspeakheight
+msgid "Peak height :"
+msgstr "Высота пика :"
+
+#: u_translation.rsphasewithdyn
+msgid "Phase with dynamic relief"
+msgstr ""
+
+#: u_translation.rsphasewithout
+msgid "Phase without relief"
+msgstr ""
+
+#: u_translation.rspicturelib
+msgid "Picture Library"
+msgstr "Библиотека изображений"
+
+#: u_translation.rspicturesandm
+msgid "Pictures and medium resolution texture"
+msgstr "Изображения и среднекачественные текстуры"
+
+#: u_translation.rspixelcount
+msgid "Pixel count"
+msgstr "Число пикселей"
+
+#: u_translation.rspixelsize
+msgid "Pixel size"
+msgstr "Размер пикселя"
+
+#: u_translation.rspleaseensure
+msgid "Please ensure that ASCOM telescope drivers are installed properly."
+msgstr "Убедитесь, что драйверы телескопа ASCOM установлены правильно."
+
+#: u_translation.rspleasefirstc
+msgid "Please first connect the telescope and select a formation."
+msgstr "Сначала подключите телескоп и выберите образование."
+
+#: u_translation.rsprocess
+msgid "Process :"
+msgstr "Процесс :"
+
+#: u_translation.rsprofile
+msgid "Profile plot"
+msgstr "Рисовать профиль"
+
+#: u_translation.rsquitfull
+msgid "Quit full screen (Esc)"
+msgstr "Окно (Esc)"
+
+#: u_translation.rsradarbrighth
+msgid "Radar bright halo radius :"
+msgstr ""
+
+#: u_translation.rsradardarkhal
+msgid "Radar dark halo radius :"
+msgstr ""
+
+#: u_translation.rsrefreshrate
+msgctxt "u_translation.rsrefreshrate"
+msgid "Refresh rate"
+msgstr "Скорость обновления"
+
+#: u_translation.rsregistredfor
+msgid "Registred formations"
+msgstr "Зарегистрированные образования"
+
+#: u_translation.rssatellitesfo
+msgid "Satellites formations"
+msgstr "Образования-спутники"
+
+#: u_translation.rssaveephemeri
+msgid "Save ephemeris to file"
+msgstr "Сохранить эфемериды в файл"
+
+#: u_translation.rssaveprofile
+msgid "Save profile"
+msgstr "Сохранить профиль"
+
+#: u_translation.rssecond
+#, fuzzy
+#| msgid "s"
+msgid "\""
+msgstr "\""
+
+#: u_translation.rsselect
+msgid "Select"
+msgstr "Выбрать"
+
+#: u_translation.rssettime
+msgid "Set Time"
+msgstr "Установить время"
+
+#: u_translation.rsshowgrid
+msgid "Show grid"
+msgstr "Показать сетку"
+
+#: u_translation.rsshowinformat
+msgid "Show information and tools"
+msgstr "Показать информацию и инструменты"
+
+#: u_translation.rsshowlabels
+msgid "Show labels"
+msgstr "Показать метки"
+
+#: u_translation.rsshowscale
+msgid "Show scale"
+msgstr "Показать масштаб"
+
+#: u_translation.rsside
+msgid "Side:"
+msgstr "Сторона:"
+
+#: u_translation.rssideral
+msgid "Sidereal"
+msgstr "Звездное"
+
+#: u_translation.rssimple
+msgid "Simple"
+msgstr "Простое"
+
+#: u_translation.rssource
+msgid "Source:"
+msgstr "Источник:"
+
+#: u_translation.rsstandardtext
+msgid "(standard texture selection)"
+msgstr ""
+
+#: u_translation.rsstart
+msgid "Start"
+msgstr "Начало"
+
+#: u_translation.rsstartdate
+msgid "Start date"
+msgstr "Дата начала"
+
+#: u_translation.rssteps
+msgid "Steps"
+msgstr "Шагов"
+
+#: u_translation.rssubtype
+msgid "Sub-type :"
+msgstr "Подтип :"
+
+#: u_translation.rstelescopenam
+msgid "Telescope name"
+msgstr "Название телескопа"
+
+#: u_translation.rsterminatorli
+msgid "Terminator line"
+msgstr "Линия терминатора"
+
+#: u_translation.rstexturesairb
+msgid "Textures Airbursh relief without albedo"
+msgstr ""
+
+#: u_translation.rstextureschange
+msgid "Textures Change photographic High Resolution"
+msgstr ""
+
+#: u_translation.rstexturesclem
+msgid "Textures Clementine photographic High Resolution"
+msgstr ""
+
+#: u_translation.rstextureslopa
+msgid "Textures LOPAM photographic High Resolution"
+msgstr ""
+
+#: u_translation.rstexturesphas
+msgid "Textures Phase with dynamic relief using LRO/WAC data"
+msgstr ""
+
+#: u_translation.rstextureswac
+msgid "Textures LRO/WAC photographic High Resolution"
+msgstr ""
+
+#: u_translation.rstitle
+msgid "Virtual Moon Atlas"
+msgstr "Виртуальнай Атлас Луны"
+
+#: u_translation.rsto
+msgid "To"
+msgstr "Для"
+
+#: u_translation.rstopocentric
+msgid "Topocentric"
+msgstr "Топоцентрическая"
+
+#: u_translation.rstracking
+msgid "Tracking"
+msgstr "Ведение"
+
+#: u_translation.rstranslator
+msgid "Translation: P. Chevalley / C. Legrand"
+msgstr ""
+
+#: u_translation.rst_1
+msgid "File"
+msgstr "Файл"
+
+#: u_translation.rst_10
+msgid "Find"
+msgstr "Найти"
+
+#: u_translation.rst_100
+msgid "Observatory"
+msgstr "Обсерватория"
+
+#: u_translation.rst_101
+msgid "Display"
+msgstr "Отображать"
+
+#: u_translation.rst_102
+msgid "Mark the point of maximum libration"
+msgstr "Отмечать точки максимума либрации"
+
+#: u_translation.rst_103
+msgid "Identification"
+msgstr "Идентификация"
+
+#: u_translation.rst_104
+msgid "Label density"
+msgstr "Плотность меток"
+
+#: u_translation.rst_109
+msgid "Eyepieces"
+msgstr "Окуляры"
+
+#: u_translation.rst_11
+msgid "Next"
+msgstr "Следующий"
+
+#: u_translation.rst_110
+msgid "Telescope focal length"
+msgstr "Фокусное расстояние телескопа"
+
+#: u_translation.rst_111
+msgid "Eyepiece focal length"
+msgstr "Фокусное расстояние окуляра"
+
+#: u_translation.rst_112
+msgid "Eyepiece apparent field of vision"
+msgstr "Видимое поле зрения окуляра"
+
+#: u_translation.rst_113
+msgid "Compute"
+msgstr "Вычислить"
+
+#: u_translation.rst_114
+msgid "Update"
+msgstr "Обновить"
+
+#: u_translation.rst_115
+msgid "Notes"
+msgstr "Заметки"
+
+#: u_translation.rst_116
+msgid "Centre"
+msgstr "Центр"
+
+#: u_translation.rst_117
+msgid "none"
+msgstr "нет"
+
+#: u_translation.rst_118
+msgid "Eyepiece Name"
+msgstr "Название окуляра"
+
+#: u_translation.rst_119
+msgid "Field in minutes"
+msgstr "Поле в минутах"
+
+#: u_translation.rst_120
+msgid "Center label on the formation"
+msgstr "Метки в центре образований"
+
+#: u_translation.rst_121
+msgid "Short Label"
+msgstr "Показать метки"
+
+#: u_translation.rst_124
+msgid "Power"
+msgstr "Питание"
+
+#: u_translation.rst_129
+msgid "Database"
+msgstr "База данных"
+
+#: u_translation.rst_130
+msgid "Far Side"
+msgstr "Дальняя сторона"
+
+#: u_translation.rst_134
+msgid "Full Globe"
+msgstr "Весь глобус"
+
+#: u_translation.rst_135
+msgid "Orbit the Moon"
+msgstr "Орбита Луны"
+
+#: u_translation.rst_136
+msgid "Stop"
+msgstr "Стоп"
+
+#: u_translation.rst_137
+msgid "Direction"
+msgstr "Направление"
+
+#: u_translation.rst_138
+msgid "d/second"
+msgstr "°/секунду"
+
+#: u_translation.rst_139
+msgid "Rotation speed"
+msgstr "Скорость вращения"
+
+#: u_translation.rst_14
+msgid "Outline"
+msgstr "Контур"
+
+#: u_translation.rst_140
+msgid "West View"
+msgstr "Западный вид"
+
+#: u_translation.rst_142
+msgid "East View"
+msgstr "Восточный вид"
+
+#: u_translation.rst_144
+msgid "Select Texture"
+msgstr "Выбрать текстуру"
+
+#: u_translation.rst_145
+msgid "OpenGL Info"
+msgstr "Информация OpenGL"
+
+#: u_translation.rst_146
+msgid "Positive East"
+msgstr "Восток положительный"
+
+#: u_translation.rst_147
+msgid "N"
+msgstr "С"
+
+#: u_translation.rst_148
+msgid "S"
+msgstr "Ю"
+
+#: u_translation.rst_149
+msgid "E"
+msgstr "В"
+
+#: u_translation.rst_15
+msgid "Help"
+msgstr "Помощь"
+
+#: u_translation.rst_150
+msgid "W"
+msgstr "З"
+
+#: u_translation.rst_152
+msgid "Texture"
+msgstr "Текстура"
+
+#: u_translation.rst_153
+msgid "L"
+msgstr ""
+
+#: u_translation.rst_154
+msgid "B"
+msgstr ""
+
+#: u_translation.rst_155
+msgid "mm."
+msgstr "мм."
+
+#: u_translation.rst_156
+msgid "Track position"
+msgstr "Отслеживать местоположение"
+
+#: u_translation.rst_157
+msgid "Correct the Moon motion"
+msgstr "Исправить движение Луны"
+
+#: u_translation.rst_158
+msgid "every"
+msgstr "каждые"
+
+#: u_translation.rst_159
+msgid "seconds"
+msgstr "секунд"
+
+#: u_translation.rst_16
+msgctxt "u_translation.rst_16"
+msgid "About"
+msgstr "О..."
+
+#: u_translation.rst_160
+msgid "Telescope"
+msgstr "Телескоп"
+
+#: u_translation.rst_161
+msgid "Show Menu"
+msgstr "Показать меню"
+
+#: u_translation.rst_162
+msgid "Goto selected"
+msgstr "Навести на"
+
+#: u_translation.rst_163
+msgid "Sync selected"
+msgstr "Синхр. выдел."
+
+#: u_translation.rst_165
+msgid "Encyclopedia"
+msgstr "Энциклопедия"
+
+#: u_translation.rst_166
+msgid "2nd Window"
+msgstr "2-е окно"
+
+#: u_translation.rst_167
+msgid "Snapshot"
+msgstr "Снимок"
+
+#: u_translation.rst_169
+msgid "Overlay"
+msgstr "Наложение"
+
+#: u_translation.rst_17
+msgid "Now"
+msgstr "Сейчас"
+
+#: u_translation.rst_170
+msgid "Show overlay"
+msgstr "Показать наложение"
+
+#: u_translation.rst_171
+msgid "Overlay :"
+msgstr "Наложение :"
+
+#: u_translation.rst_172
+msgid "Transparency:"
+msgstr "Прозрачность:"
+
+#: u_translation.rst_173
+msgid "Date / Time"
+msgstr "Дата / Время"
+
+#: u_translation.rst_174
+msgid "Use Computer Date and Time"
+msgstr "Использовать дату и время ПК"
+
+#: u_translation.rst_175
+msgid "Show Libration"
+msgstr "Показать либрацию"
+
+#: u_translation.rst_176
+msgid "Show Phase"
+msgstr "Показать фазу"
+
+#: u_translation.rst_177
+msgid "Rotate N-S"
+msgstr "Вращение С-Ю"
+
+#: u_translation.rst_178
+msgid "Flip E-W"
+msgstr "Переворот В-З"
+
+#: u_translation.rst_179
+msgid "User Database loaded from DATLUN"
+msgstr ""
+
+#: u_translation.rst_18
+msgid "OK"
+msgstr "Хорошо"
+
+#: u_translation.rst_180
+msgid "Remove Selection Mark"
+msgstr "Удалить маркер выделения"
+
+#: u_translation.rst_181
+msgid "Mark size"
+msgstr "Размер маркера"
+
+#: u_translation.rst_183
+msgid "Label Color"
+msgstr "Цвет метки"
+
+#: u_translation.rst_184
+msgid "Your graphic card do not support to display more than one texture for the same object. Be sure that hardware acceleration is activated or change the graphic card. The require function is GL_ARB_MULTITEXTURE "
+msgstr ""
+
+#: u_translation.rst_185
+msgid "Look here for a list of supported graphic card"
+msgstr ""
+
+#: u_translation.rst_19
+msgctxt "u_translation.rst_19"
+msgid "Latitude"
+msgstr "Широта"
+
+#: u_translation.rst_2
+msgid "Quit"
+msgstr "Выход"
+
+#: u_translation.rst_21
+msgid "Time Zone"
+msgstr "Часовой пояс"
+
+#: u_translation.rst_22
+msgid "Show the phase"
+msgstr "Показывать фазу"
+
+#: u_translation.rst_23
+msgid "Show the libration"
+msgstr "Показывать либрацию"
+
+#: u_translation.rst_24
+msgid "Language"
+msgstr "Язык"
+
+#: u_translation.rst_25
+msgid "Picture"
+msgstr "Изображение"
+
+#: u_translation.rst_26
+msgid "Geocentric"
+msgstr "Геоцентрическая"
+
+#: u_translation.rst_28
+msgid "Color"
+msgstr "Цвет"
+
+#: u_translation.rst_29
+msgid "Label"
+msgstr "Метка"
+
+#: u_translation.rst_3
+msgid "Configuration"
+msgstr "Настройка"
+
+#: u_translation.rst_30
+msgid "Close"
+msgstr "Закрыть"
+
+#: u_translation.rst_31
+msgid "Zoom"
+msgstr "Масштаб"
+
+#: u_translation.rst_32
+msgid "Lighting"
+msgstr "Освещение"
+
+#: u_translation.rst_33
+msgid "Penumbra"
+msgstr "Полутень"
+
+#: u_translation.rst_34
+msgid "Diffuse"
+msgstr "Диффузность"
+
+#: u_translation.rst_35
+msgid "Specular"
+msgstr "Зеркальность"
+
+#: u_translation.rst_36
+msgid "Performance"
+msgstr "Производительность"
+
+#: u_translation.rst_37
+msgid "Smoothness"
+msgstr "Плавность"
+
+#: u_translation.rst_4
+msgid "Zoom:"
+msgstr "Масшт.:"
+
+#: u_translation.rst_42
+msgid "All the formation"
+msgstr "Все образования"
+
+#: u_translation.rst_43
+msgid "Pretty interesting"
+msgstr "Довольно интересно"
+
+#: u_translation.rst_44
+msgid "Very interesting"
+msgstr "Очень интересно"
+
+#: u_translation.rst_45
+msgid "Exceptional"
+msgstr "Исключительно"
+
+#: u_translation.rst_46
+msgid "Sort"
+msgstr "Сортировка"
+
+#: u_translation.rst_47
+msgctxt "u_translation.rst_47"
+msgid "Name"
+msgstr "Название"
+
+#: u_translation.rst_48
+msgid "Interest"
+msgstr "Интересность"
+
+#: u_translation.rst_49
+msgid "Instrument"
+msgstr "Инструмент"
+
+#: u_translation.rst_5
+msgctxt "u_translation.rst_5"
+msgid "Center"
+msgstr "Центр"
+
+#: u_translation.rst_51
+msgid "Terminator"
+msgstr "Терминатор"
+
+#: u_translation.rst_52
+msgid "Mark"
+msgstr "Маркер"
+
+#: u_translation.rst_53
+msgid "Show label"
+msgstr "Показать метку"
+
+#: u_translation.rst_54
+msgid "Show mark"
+msgstr "Показать маркер"
+
+#: u_translation.rst_55
+msgid "Setup"
+msgstr "Установка"
+
+#: u_translation.rst_56
+msgid "Sky Chart"
+msgstr "Карта неба"
+
+#: u_translation.rst_57
+msgid "General"
+msgstr "Общее"
+
+#: u_translation.rst_58
+msgid "Images"
+msgstr "Изображения"
+
+#: u_translation.rst_6
+msgid "Information"
+msgstr "Информация"
+
+#: u_translation.rst_60
+msgid "Image folders:"
+msgstr ""
+
+#: u_translation.rst_62
+msgid "Folder"
+msgstr "Каталог"
+
+#: u_translation.rst_63
+msgid "Tools"
+msgstr "Инструменты"
+
+#: u_translation.rst_64
+msgid "Rotation"
+msgstr "Вращение"
+
+#: u_translation.rst_65
+msgid "West"
+msgstr "Запад"
+
+#: u_translation.rst_66
+msgid "East"
+msgstr "Восток"
+
+#: u_translation.rst_67
+msgid "Default Orientation"
+msgstr "Ориентация по-умолчанию"
+
+#: u_translation.rst_68
+msgid "Celestial Pole on top"
+msgstr "Небесный полюс сверху"
+
+#: u_translation.rst_69
+msgid "Distance"
+msgstr "Расстояние"
+
+#: u_translation.rst_7
+msgid "Ephemeris"
+msgstr "Эфемериды"
+
+#: u_translation.rst_70
+msgid "Real Distance"
+msgstr "Действительное расст."
+
+#: u_translation.rst_71
+msgid "Apparent Distance"
+msgstr "Видимое расстояние"
+
+#: u_translation.rst_72
+msgid "North"
+msgstr "Север"
+
+#: u_translation.rst_73
+msgid "South"
+msgstr "Юг"
+
+#: u_translation.rst_74
+msgid "Mirror"
+msgstr "Отразить"
+
+#: u_translation.rst_75
+msgid "Save Map"
+msgstr "Сохранить карту"
+
+#: u_translation.rst_76
+msgid "Saved Map size"
+msgstr "Размер сохраненной карты"
+
+#: u_translation.rst_77
+msgid "As on screen"
+msgstr "Как на экране"
+
+#: u_translation.rst_78
+msgid "Save As"
+msgstr "Сохранить как"
+
+#: u_translation.rst_79
+msgid "Print"
+msgstr "Печать"
+
+#: u_translation.rst_8
+msgid "Zoom+"
+msgstr "Увеличить"
+
+#: u_translation.rst_80
+msgid "White background"
+msgstr "Белый фон"
+
+#: u_translation.rst_81
+msgid "Neighbor"
+msgstr "Сосед"
+
+#: u_translation.rst_82
+msgid "Print Setup..."
+msgstr "Настройка печати..."
+
+#: u_translation.rst_84
+msgid "Select All"
+msgstr "Выбрать всё"
+
+#: u_translation.rst_85
+msgid "Copy"
+msgstr "Копировать"
+
+#: u_translation.rst_86
+msgid "Measure"
+msgstr "Измерить"
+
+#: u_translation.rst_89
+msgid "External display software"
+msgstr ""
+
+#: u_translation.rst_9
+msgid "Zoom-"
+msgstr "Уменьшить"
+
+#: u_translation.rst_90
+msgid "Printing"
+msgstr "Печать"
+
+#: u_translation.rst_91
+msgid "Printer"
+msgstr "Принтер"
+
+#: u_translation.rst_92
+msgid "Left Margin"
+msgstr "Отступ слева"
+
+#: u_translation.rst_93
+msgid "Millimeters"
+msgstr "Миллиметры"
+
+#: u_translation.rst_94
+msgid "Print the ephemeris"
+msgstr "Печать эфемерид"
+
+#: u_translation.rst_95
+msgid "Print the information"
+msgstr "Печать информации"
+
+#: u_translation.rst_96
+msgid "Print the map"
+msgstr "Печать карты"
+
+#: u_translation.rst_97
+msgid "Information text width"
+msgstr ""
+
+#: u_translation.rst_98
+msgid "Glossary"
+msgstr "Словарь"
+
+#: u_translation.rst_99
+msgid "Cancel"
+msgstr "Отмена"
+
+#: u_translation.rsunnamedforma
+msgid "Unnamed Formation"
+msgstr "Безымянное образование"
+
+#: u_translation.rsunpark
+msgid "Unpark"
+msgstr "Распарковать"
+
+#: u_translation.rsusing
+msgid "Using"
+msgstr ""
+
+#: u_translation.rsveryhighreso
+#, object-pascal-format
+msgid "Very high resolution %s texture"
+msgstr ""
+
+#: u_translation.rswidth
+msgid "Width"
+msgstr "Ширина"
+
+#: u_translation.rsyoucandownlo
+msgid "You can download and install the following optional features:"
+msgstr ""
+
+#: u_translation.rsyourinstalla
+msgid "Your installation is already complete with all the features installed."
+msgstr ""
+
+#: u_translation.rszoomlevel
+msgid "Zoom level"
+msgstr "Уровень масштаба"
+
