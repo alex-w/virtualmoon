@@ -23,19 +23,19 @@ msgstr "Все"
 
 #: u_translation.rsalllibraries
 msgid "All libraries"
-msgstr ""
+msgstr "Все библиотеки"
 
 #: u_translation.rsbrighter
 msgid "Brighter"
-msgstr ""
+msgstr "Ярче"
 
 #: u_translation.rsbylibrary
 msgid "by library"
-msgstr ""
+msgstr "по библиотеке"
 
 #: u_translation.rsbyname
 msgid "by name"
-msgstr ""
+msgstr "по названию"
 
 #: u_translation.rscancel
 msgid "Cancel"
@@ -43,11 +43,11 @@ msgstr "Отмена"
 
 #: u_translation.rscloseallwind
 msgid "Close all window"
-msgstr ""
+msgstr "Закрыть все окна"
 
 #: u_translation.rsdarker
 msgid "Darker"
-msgstr ""
+msgstr "Темнее"
 
 #: u_translation.rsdatabase
 msgid "Database"
@@ -83,15 +83,15 @@ msgstr "RU"
 
 #: u_translation.rshorizontalmi
 msgid "Horizontal Mirror"
-msgstr ""
+msgstr "Горизонтальное отражение"
 
 #: u_translation.rsimagefolders
 msgid "Image folders:"
-msgstr ""
+msgstr "Каталоги изображений:"
 
 #: u_translation.rsimagemirror
 msgid "Image mirror"
-msgstr ""
+msgstr "Отразить изображение"
 
 #: u_translation.rsimages
 msgid "Images"
@@ -99,11 +99,11 @@ msgstr "Изображения"
 
 #: u_translation.rsincreasecont
 msgid "Increase Contrast"
-msgstr ""
+msgstr "Увеличить контраст"
 
 #: u_translation.rslarge
 msgid "Large"
-msgstr "Больше"
+msgstr "Большой"
 
 #: u_translation.rslibrary
 msgid "Library"
@@ -115,7 +115,7 @@ msgstr "Настройки библиотеки"
 
 #: u_translation.rsmedium
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
 #: u_translation.rsname
 msgid "Name"
@@ -131,7 +131,7 @@ msgstr "Север<->Юг"
 
 #: u_translation.rsnumberofwind
 msgid "Number of window"
-msgstr ""
+msgstr "Число окон"
 
 #: u_translation.rsok
 msgid "OK"
@@ -143,19 +143,19 @@ msgstr "Выход"
 
 #: u_translation.rsreducecontra
 msgid "Reduce Contrast"
-msgstr ""
+msgstr "Уменьшить контраст"
 
 #: u_translation.rsresetdefault
 msgid "Reset default setting"
-msgstr ""
+msgstr "Сбросить настройки"
 
 #: u_translation.rsrotateclockw
 msgid "Rotate clockwise"
-msgstr ""
+msgstr "Вращать по часовой стрелке"
 
 #: u_translation.rsrotatecounte
 msgid "Rotate counterclockwise"
-msgstr ""
+msgstr "Вращать против часовой стрелке"
 
 #: u_translation.rsrotation
 msgid "Rotation"
@@ -183,7 +183,7 @@ msgstr "Размер"
 
 #: u_translation.rssmall
 msgid "Small"
-msgstr ""
+msgstr "Малый"
 
 #: u_translation.rssort
 msgid "Sort"
@@ -191,19 +191,19 @@ msgstr "Сортировка"
 
 #: u_translation.rstranslatedby
 msgid "Translated by :"
-msgstr "Translated by : Patrick Chevalley"
+msgstr "Перевел: А. Вольф"
 
 #: u_translation.rsverticalmirr
 msgid "Vertical Mirror"
-msgstr ""
+msgstr "Вертикальное отражение"
 
 #: u_translation.rsview
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 #: u_translation.rsvignettes
 msgid "Vignettes"
-msgstr ""
+msgstr "Виньетки"
 
 #: u_translation.rszoom
 msgid "Zoom"
