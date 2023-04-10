@@ -1,0 +1,544 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: u_translation.rsabout
+msgid "About"
+msgstr "О..."
+
+#: u_translation.rsadd
+msgid "Add"
+msgstr "Добавить"
+
+#: u_translation.rsaddrow
+msgid "Add row"
+msgstr "Добавить строку"
+
+#: u_translation.rsall
+msgid "All"
+msgstr "Все"
+
+#: u_translation.rsaltitude
+msgid "Altitude"
+msgstr "Высота"
+
+#: u_translation.rsazimut
+msgid "Azimuth"
+msgstr "Азимут"
+
+#: u_translation.rsbarlow
+msgid "Barlow"
+msgstr "Линза Барлоу"
+
+#: u_translation.rsbarlowreduce
+msgid "Barlow/reducer"
+msgstr "Барлоу/редуктор"
+
+#: u_translation.rsbarlowreduce2
+msgid "Barlow/Reducer"
+msgstr "Барлоу/Редуктор"
+
+#: u_translation.rsbeforetocrea
+msgid "Before to create observation notes you need to configure the equipment in use and the location you observe from, so this can be picked in the note."
+msgstr ""
+
+#: u_translation.rsbydate
+msgid "By date"
+msgstr "По дате"
+
+#: u_translation.rsbyformationn
+msgid "By formation name"
+msgstr "По названию образования"
+
+#: u_translation.rsbytypeofnote
+msgid "By type of note"
+msgstr "По типу заметки"
+
+#: u_translation.rscamera
+msgid "Camera"
+msgstr "Камера"
+
+#: u_translation.rscancel
+msgid "Cancel"
+msgstr "Отмена"
+
+#: u_translation.rscircumstance
+msgid "Circumstance"
+msgstr "Обстоятельство"
+
+#: u_translation.rsclose
+msgid "Close"
+msgstr "Закрыть"
+
+#: u_translation.rscolongitude
+msgid "Colongitude"
+msgstr "Кодолгота"
+
+#: u_translation.rsconfiguratio
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: u_translation.rscontact
+msgid "Contact"
+msgstr "Контакт"
+
+#: u_translation.rscountry
+msgid "Country"
+msgstr "Страна"
+
+#: u_translation.rsdate
+msgid "Date"
+msgstr "Дата"
+
+#: u_translation.rsdatetime
+msgid "Date / Time"
+msgstr "Дата / Время"
+
+#: u_translation.rsdays
+msgid "days"
+msgstr "дней"
+
+#: u_translation.rsdeapparent
+msgid "DE apparent"
+msgstr "Вид. скл."
+
+#: u_translation.rsdefaultlists
+msgid "Default list sorting options"
+msgstr ""
+
+#: u_translation.rsdelete
+msgid "Delete"
+msgstr "Удалить"
+
+#: u_translation.rsdeletenote
+msgid "Delete note"
+msgstr "Удалить заметку"
+
+#: u_translation.rsdeletenote2
+msgid "Delete note?"
+msgstr "Удалить заметку?"
+
+#: u_translation.rsdiameter
+msgid "Diameter"
+msgstr "Диаметр"
+
+#: u_translation.rsdiametermm
+msgid "Diameter [mm]"
+msgstr "Диаметр [мм]"
+
+#: u_translation.rsdistance
+msgid "Distance"
+msgstr "Расстояние"
+
+#: u_translation.rse
+msgid "E"
+msgstr "В"
+
+#: u_translation.rsedit
+msgid "Edit"
+msgstr "Править"
+
+#: u_translation.rseditnote
+msgid "Edit note"
+msgstr "Править заметку"
+
+#: u_translation.rselevation
+msgid "Elevation"
+msgstr "Высота"
+
+#: u_translation.rselevationmet
+msgid "Elevation [meter]"
+msgstr "Высота [метры]"
+
+#: u_translation.rsendtime
+msgid "End time"
+msgstr "Время окончания"
+
+#: u_translation.rsephemeris
+msgid "Ephemeris"
+msgstr "Эфемериды"
+
+#: u_translation.rsew
+msgid "E/W"
+msgstr "В/З"
+
+#: u_translation.rsexport
+msgid "Export"
+msgstr "Экспорт"
+
+#: u_translation.rsexportinform
+msgid "Export information notes as"
+msgstr ""
+
+#: u_translation.rsexportobserv
+msgid "Export observation notes as"
+msgstr ""
+
+#: u_translation.rsexporttocsv
+msgid "Export to CSV"
+msgstr "Экспорт в CSV"
+
+#: u_translation.rseyepiece
+msgid "Eyepiece"
+msgstr "Окуляр"
+
+#: u_translation.rsfd
+msgid "F/D"
+msgstr "Ф/Д"
+
+#: u_translation.rsfield
+msgid "Field"
+msgstr "Поле"
+
+#: u_translation.rsfile
+msgid "File"
+msgstr "Файл"
+
+#: u_translation.rsfilenamefilt
+msgid "File name filter"
+msgstr ""
+
+#: u_translation.rsfiles
+msgid "Files"
+msgstr "Файлы"
+
+#: u_translation.rsfirstname
+msgid "First name"
+msgstr ""
+
+#: u_translation.rsfixedpitchfo
+msgid "Fixed pitch font to print list of notes"
+msgstr ""
+
+#: u_translation.rsfocalmm
+msgid "Focal [mm]"
+msgstr "Фокус [мм]"
+
+#: u_translation.rsfonttoprintn
+msgid "Font to print note text"
+msgstr ""
+
+#: u_translation.rsformation
+msgid "Formation"
+msgstr "Образование"
+
+#: u_translation.rsgear
+msgid "Gear"
+msgstr ""
+
+#: u_translation.rshelp
+msgid "Help"
+msgstr "Помощь"
+
+#: u_translation.rshelp_prefix
+msgid "EN"
+msgstr "RU"
+
+#: u_translation.rshorizontalre
+msgid "Horizontal resolution [pixel]"
+msgstr "Горизонтальное разрешение [пкс]"
+
+#: u_translation.rsillumination
+msgid "Illumination"
+msgstr "Освещено"
+
+#: u_translation.rsinformationn
+msgid "Information note"
+msgstr ""
+
+#: u_translation.rsinformationn2
+#, object-pascal-format
+msgid "%s information notes imported from previous version"
+msgstr ""
+
+#: u_translation.rsinstrument
+msgid "Instrument"
+msgstr "Инструмент"
+
+#: u_translation.rslang
+msgid "Language"
+msgstr "Язык"
+
+#: u_translation.rslanguage
+msgid "English"
+msgstr "Русский"
+
+#: u_translation.rslatitude
+msgid "Latitude"
+msgstr "Широта"
+
+#: u_translation.rslibrationlat
+msgid "Libration latitude"
+msgstr "Широта либрации"
+
+#: u_translation.rslibrationlon
+msgid "Libration longitude"
+msgstr "Долгота либрации"
+
+#: u_translation.rslistandnotes
+msgid "List and notes"
+msgstr "Список и заметки"
+
+#: u_translation.rslocation
+msgid "Location"
+msgstr "Местоположение"
+
+#: u_translation.rslongitude
+msgid "Longitude"
+msgstr "Долгота"
+
+#: u_translation.rslunation
+msgid "Lunation"
+msgstr "Лунация"
+
+#: u_translation.rsmagnificatio
+msgid "Magnification"
+msgstr "Увеличение"
+
+#: u_translation.rsmanage
+msgid "Manage"
+msgstr ""
+
+#: u_translation.rsmeteorologic
+msgid "Meteorological condition"
+msgstr "Метеоусловия"
+
+#: u_translation.rsmonth
+msgid "Month"
+msgstr "Месяц"
+
+#: u_translation.rsname
+msgid "Name"
+msgstr "Название"
+
+#: u_translation.rsnew
+msgid "New"
+msgstr ""
+
+#: u_translation.rsnewinformati
+msgid "New information note"
+msgstr ""
+
+#: u_translation.rsnewobservati
+msgid "New observation note"
+msgstr ""
+
+#: u_translation.rsnote
+msgid "Note"
+msgstr "Заметка"
+
+#: u_translation.rsnoteauthor
+msgid "Note author"
+msgstr "Автор заметки"
+
+#: u_translation.rsnoteismodifi
+msgid "Note is modified do you want to save the change?"
+msgstr ""
+
+#: u_translation.rsnoteoptions
+msgid "Note options"
+msgstr ""
+
+#: u_translation.rsnoteslist
+msgid "Notes list"
+msgstr "Список заметок"
+
+#: u_translation.rsnotestoexpor
+msgid "Notes to export"
+msgstr ""
+
+#: u_translation.rsnotetexttose
+msgid "Note text to search"
+msgstr ""
+
+#: u_translation.rsobservatione
+msgid "Observation end"
+msgstr "Конец наблюдения"
+
+#: u_translation.rsobservationn
+msgid "Observation note"
+msgstr ""
+
+#: u_translation.rsobservations
+msgid "Observation start"
+msgstr "Начало наблюдения"
+
+#: u_translation.rsobservatory
+msgid "Observatory"
+msgstr "Обсерватория"
+
+#: u_translation.rsobserver
+msgid "Observer"
+msgstr "Наблюдатель"
+
+#: u_translation.rsobservingpla
+msgid "Observing place"
+msgstr ""
+
+#: u_translation.rsok
+msgid "OK"
+msgstr "Хорошо"
+
+#: u_translation.rspast
+msgid "Past"
+msgstr ""
+
+#: u_translation.rsphase
+msgid "Phase"
+msgstr "Фаза"
+
+#: u_translation.rspixelsize
+msgid "Pixel size"
+msgstr "Размер пикселя"
+
+#: u_translation.rspositionangl
+msgid "Position angle"
+msgstr "Позиционный угол"
+
+#: u_translation.rspower
+msgid "Power"
+msgstr "Кратность"
+
+#: u_translation.rsprintlistofn
+msgid "Print list of notes"
+msgstr ""
+
+#: u_translation.rsprintnote
+msgid "Print note"
+msgstr ""
+
+#: u_translation.rsprintoptions
+msgid "Print options"
+msgstr ""
+
+#: u_translation.rspseudo
+msgid "Pseudo"
+msgstr "Псевдо"
+
+#: u_translation.rsquit
+msgid "Quit"
+msgstr "Выход"
+
+#: u_translation.rsraapparent
+msgid "RA apparent"
+msgstr "Вид. П.В."
+
+#: u_translation.rsremovefile
+msgid "Remove file"
+msgstr "Удалить файл"
+
+#: u_translation.rsreplacelineb
+msgid "Replace line break character by"
+msgstr ""
+
+#: u_translation.rsreversesorto
+msgid "Reverse sort order"
+msgstr ""
+
+#: u_translation.rssave
+msgid "Save"
+msgstr "Сохранить"
+
+#: u_translation.rssearch
+msgid "Search"
+msgstr "Поиск"
+
+#: u_translation.rsseeing
+msgid "Seeing"
+msgstr "Видимость"
+
+#: u_translation.rsselectcamera
+msgid "Select camera"
+msgstr "Выбор камеры"
+
+#: u_translation.rsselecteyepie
+msgid "Select eyepiece"
+msgstr "Выбор окуляра"
+
+#: u_translation.rsselectfileat
+msgid "Select file attachment"
+msgstr ""
+
+#: u_translation.rsselectformat
+msgid "Select formation"
+msgstr ""
+
+#: u_translation.rsselectinstru
+msgid "Select instrument"
+msgstr ""
+
+#: u_translation.rsselectlocati
+msgid "Select location"
+msgstr ""
+
+#: u_translation.rsselectnotete
+msgid "Select note text"
+msgstr ""
+
+#: u_translation.rsselectobserv
+msgid "Select observer"
+msgstr ""
+
+#: u_translation.rssetup
+msgid "Setup"
+msgstr ""
+
+#: u_translation.rsshowephemeri
+msgid "Show ephemeris"
+msgstr ""
+
+#: u_translation.rssortbydate
+msgid "Sort by date"
+msgstr ""
+
+#: u_translation.rssortbyformat
+msgid "Sort by formation"
+msgstr ""
+
+#: u_translation.rssortbytype
+msgid "Sort by type"
+msgstr ""
+
+#: u_translation.rsstarttime
+msgid "Start time"
+msgstr ""
+
+#: u_translation.rssubsolarlati
+msgid "Sub-solar latitude"
+msgstr ""
+
+#: u_translation.rstimezone
+msgid "Time Zone"
+msgstr ""
+
+#: u_translation.rstimezone2
+msgid "Timezone"
+msgstr ""
+
+#: u_translation.rstitle
+msgid "NoteLun"
+msgstr ""
+
+#: u_translation.rstype
+msgid "Type"
+msgstr ""
+
+#: u_translation.rstypeofnote
+msgid "Type of note"
+msgstr ""
+
+#: u_translation.rsverticalreso
+msgid "Vertical resolution [pixel]"
+msgstr ""
+
+#: u_translation.rsw
+msgid "W"
+msgstr ""
+
+#: u_translation.rsyear
+msgid "Year"
+msgstr ""
+
+#: u_translation.rsyoucancomple
+msgid "You can complete that later using the menu"
+msgstr ""
+

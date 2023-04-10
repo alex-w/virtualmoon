@@ -11,7 +11,7 @@ msgstr ""
 
 #: u_translation.rscreatetempla
 msgid "Create template"
-msgstr ""
+msgstr "Создать шаблон"
 
 #: u_translation.rsedit
 msgid "Edit"

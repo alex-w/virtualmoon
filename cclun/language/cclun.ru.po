@@ -17,7 +17,7 @@ msgstr "Документация AtLun"
 
 #: u_translation.rsbrowsetheatl
 msgid "Browse the Atlas pictures"
-msgstr ""
+msgstr "Обзор изображений Атласа"
 
 #: u_translation.rscalclundocum
 msgid "CalcLun documentation"
@@ -33,11 +33,11 @@ msgstr "Документация"
 
 #: u_translation.rsexitthecomma
 msgid "Exit the Command Center"
-msgstr ""
+msgstr "Выход из Центра Управления"
 
 #: u_translation.rsexplorethelu
 msgid "Explore the Lunar Atlas maps"
-msgstr ""
+msgstr "Обзор карта Атласа Луны"
 
 #: u_translation.rshelp_prefix
 msgid "EN"
@@ -45,7 +45,7 @@ msgstr "RU"
 
 #: u_translation.rslanguage
 msgid "English"
-msgstr ""
+msgstr "Русский"
 
 #: u_translation.rslunarcalcula
 msgid "Lunar calculation"
@@ -69,27 +69,27 @@ msgstr "Читать полную документацию"
 
 #: u_translation.rsreadthequick
 msgid "Read the quick guide"
-msgstr ""
+msgstr "Читать краткое руководство"
 
 #: u_translation.rssearchinthea
 msgid "Search in the Atlas databases"
-msgstr ""
+msgstr "Поиск в базе данных Атласа"
 
 #: u_translation.rsspecialediti
 msgid "Special edition \"10th anniversary\""
-msgstr ""
+msgstr "Специальный выпуск \"10-й юбилей\""
 
 #: u_translation.rstheatlasinte
 msgid "The Atlas Internet resources"
-msgstr ""
+msgstr "Интернет-ресурсы Атласа"
 
 #: u_translation.rstitle
 msgid "Virtual Lunar Atlas Command Center"
-msgstr "Virtual Moon Atlas Command Center"
+msgstr "Центр Управления Виртуальным Атласом Луны"
 
 #: u_translation.rstranslator
 msgid "Translation: P. Chevalley / C. Legrand"
-msgstr ""
+msgstr "Перевод: А. Вольф"
 
 #: u_translation.rstutorial
 msgid "Tutorial "
