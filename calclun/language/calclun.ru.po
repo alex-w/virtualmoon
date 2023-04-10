@@ -1,0 +1,471 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: u_translation.rsabout
+msgid "About"
+msgstr "О..."
+
+#: u_translation.rsalt
+msgid "Alt"
+msgstr "Выс."
+
+#: u_translation.rsaltitude
+msgid "Altitude"
+msgstr "Высота"
+
+#: u_translation.rsalwaysup
+msgid "Always up"
+msgstr "Всегда сверху"
+
+#: u_translation.rsapril
+msgid "April"
+msgstr "Апрель"
+
+#: u_translation.rsaugust
+msgid "August"
+msgstr "Август"
+
+#: u_translation.rsazimut
+msgid "Azimuth"
+msgstr "Азимут"
+
+#: u_translation.rsbyday
+msgid "by day"
+msgstr ""
+
+#: u_translation.rsbymonth
+msgid "by month"
+msgstr ""
+
+#: u_translation.rsbyyear
+msgid "by year"
+msgstr ""
+
+#: u_translation.rscancel
+msgid "Cancel"
+msgstr "Отмена"
+
+#: u_translation.rsclose
+msgid "Close"
+msgstr "Закрыть"
+
+#: u_translation.rscolongitude
+msgid "Colongitude"
+msgstr ""
+
+#: u_translation.rscompute
+msgid "Compute"
+msgstr "Вычислить"
+
+#: u_translation.rsconfiguratio
+msgid "Configuration"
+msgstr ""
+
+#: u_translation.rsconstraints
+msgid "Constraints"
+msgstr ""
+
+#: u_translation.rscountry
+msgid "Country"
+msgstr "Страна"
+
+#: u_translation.rsdatabasenotf
+msgid "Database not found! Run AtLun or DatLun to initialize the database."
+msgstr ""
+
+#: u_translation.rsdate
+msgid "Date"
+msgstr "Дата"
+
+#: u_translation.rsdatetime
+msgid "Date / Time"
+msgstr "Дата / Время"
+
+#: u_translation.rsday
+msgid "Day"
+msgstr "День"
+
+#: u_translation.rsde2000
+msgid "DE 2000"
+msgstr "Скл. 2000"
+
+#: u_translation.rsdeapparent
+msgid "DE apparent"
+msgstr "Вид. скл."
+
+#: u_translation.rsdecember
+msgid "December"
+msgstr "Декабрь"
+
+#: u_translation.rsdegreeaboveh
+msgid "degree above horizon"
+msgstr "градусов над горизонтом"
+
+#: u_translation.rsdegreebelowh
+msgid "degree below horizon"
+msgstr "градусов под горизонтом"
+
+#: u_translation.rsdiameter
+msgid "Diameter"
+msgstr "Диаметр"
+
+#: u_translation.rsdistance
+msgid "Distance"
+msgstr "Расстояние"
+
+#: u_translation.rse
+msgid "E"
+msgstr "В"
+
+#: u_translation.rseast
+msgid "East"
+msgstr "Восток"
+
+#: u_translation.rselevation
+msgid "Elevation"
+msgstr "Высота"
+
+#: u_translation.rsenddate
+msgid "End date"
+msgstr ""
+
+#: u_translation.rsendtime
+msgid "End time"
+msgstr ""
+
+#: u_translation.rsephemeris
+msgid "Ephemeris"
+msgstr "Эфемериды"
+
+#: u_translation.rsfebruary
+msgid "February"
+msgstr "Февраль"
+
+#: u_translation.rsfile
+msgid "File"
+msgstr "Файл"
+
+#: u_translation.rsfirstquarter
+msgid "First quarter"
+msgstr "Первая четверть"
+
+#: u_translation.rsformationcoo
+msgid "Formation coordinates"
+msgstr "Координаты образования"
+
+#: u_translation.rsfullmoon
+msgid "Full Moon"
+msgstr "Полнолуние"
+
+#: u_translation.rshelp
+msgid "Help"
+msgstr "Помощь"
+
+#: u_translation.rshelp_prefix
+msgid "EN"
+msgstr "RU"
+
+#: u_translation.rshour
+msgid "Hour"
+msgstr "Час"
+
+#: u_translation.rsillumination
+msgid "Illumination"
+msgstr ""
+
+#: u_translation.rsjanuary
+msgid "January"
+msgstr "Январь"
+
+#: u_translation.rsjuly
+msgid "July"
+msgstr "Июль"
+
+#: u_translation.rsjune
+msgid "June"
+msgstr "Июнь"
+
+#: u_translation.rslang
+msgid "Language"
+msgstr "Язык"
+
+#: u_translation.rslanguage
+msgid "English"
+msgstr ""
+
+#: u_translation.rslastquarter
+msgid "Last quarter"
+msgstr "Последняя четверть"
+
+#: u_translation.rslatitude
+msgid "Latitude"
+msgstr "Широта"
+
+#: u_translation.rslibration
+msgid "Libration"
+msgstr "Либрация"
+
+#: u_translation.rslibrationext
+msgid "Libration extrema"
+msgstr ""
+
+#: u_translation.rslibrationlat
+msgid "Libration latitude"
+msgstr "Широта либрации"
+
+#: u_translation.rslibrationlon
+msgid "Libration longitude"
+msgstr "Долгота либрации"
+
+#: u_translation.rslibrlat
+msgid "Libr. lat."
+msgstr "Шир. либр."
+
+#: u_translation.rslibrlon
+msgid "Libr. lon."
+msgstr "Долг. либр."
+
+#: u_translation.rslongitude
+msgid "Longitude"
+msgstr "Долгота"
+
+#: u_translation.rslunation
+msgid "Lunation"
+msgstr "Лунация"
+
+#: u_translation.rsmarch
+msgid "March"
+msgstr "Март"
+
+#: u_translation.rsmaximum
+msgid "Maximum"
+msgstr ""
+
+#: u_translation.rsmay
+msgid "May"
+msgstr "Май"
+
+#: u_translation.rsminimum
+msgid "Minimum"
+msgstr ""
+
+#: u_translation.rsmonth
+msgid "Month"
+msgstr "Месяц"
+
+#: u_translation.rsmoon
+msgid "Moon"
+msgstr "Луна"
+
+#: u_translation.rsmoonphase
+msgid "Moon phase"
+msgstr "Фаза Луны"
+
+#: u_translation.rsmoonvisiblef
+msgid "Moon visible from the observatory"
+msgstr ""
+
+#: u_translation.rsn
+msgid "N"
+msgstr "С"
+
+#: u_translation.rsneverrise
+msgid "Never rise"
+msgstr "Не восходит"
+
+#: u_translation.rsnewmoon
+msgid "New Moon"
+msgstr "Новолуние"
+
+#: u_translation.rsnorth
+msgid "North"
+msgstr "Север"
+
+#: u_translation.rsnovember
+msgid "November"
+msgstr "Ноябрь"
+
+#: u_translation.rsobservatory
+msgid "Observatory"
+msgstr "Обсерватория"
+
+#: u_translation.rsoctober
+msgid "October"
+msgstr "Октябрь"
+
+#: u_translation.rsok
+msgid "OK"
+msgstr "Хорошо"
+
+#: u_translation.rsonlynighteve
+msgid "Only night events"
+msgstr ""
+
+#: u_translation.rspa
+msgid "PA"
+msgstr "П.У."
+
+#: u_translation.rsphase
+msgid "Phase"
+msgstr "Фаза"
+
+#: u_translation.rsprediction
+msgid "Prediction"
+msgstr "Предсказание"
+
+#: u_translation.rspredictiondu
+msgid "Prediction duration"
+msgstr ""
+
+#: u_translation.rspredictionfo
+msgid "Prediction for libration, with formation illuminated"
+msgstr ""
+
+#: u_translation.rsra2000
+msgid "RA 2000"
+msgstr "П.В. 2000"
+
+#: u_translation.rsraapparent
+msgid "RA apparent"
+msgstr "Вид. П.В."
+
+#: u_translation.rsrise
+msgid "Rise"
+msgstr "Закат"
+
+#: u_translation.rsrisetime
+msgid "Rise time"
+msgstr "Время заката"
+
+#: u_translation.rss
+msgid "S"
+msgstr "Ю"
+
+#: u_translation.rssaveephemeri
+msgid "Save ephemeris to file"
+msgstr ""
+
+#: u_translation.rssearch
+msgid "Search"
+msgstr "Поиск"
+
+#: u_translation.rssearchformat
+msgid "Search formation"
+msgstr ""
+
+#: u_translation.rsselectgraph
+msgid "Select graph"
+msgstr ""
+
+#: u_translation.rsseptember
+msgid "September"
+msgstr "Сентябрь"
+
+#: u_translation.rsset
+msgid "Set"
+msgstr "Восход"
+
+#: u_translation.rssettime
+msgid "Set time"
+msgstr "Время восхода"
+
+#: u_translation.rssetup
+msgid "Setup"
+msgstr ""
+
+#: u_translation.rssouth
+msgid "South"
+msgstr "Юг"
+
+#: u_translation.rsstartdate
+msgid "Start date"
+msgstr ""
+
+#: u_translation.rsstarttime
+msgid "Start time"
+msgstr ""
+
+#: u_translation.rssteps
+msgid "Steps"
+msgstr "Шагов"
+
+#: u_translation.rssubsolarlati
+msgid "Sub-solar latitude"
+msgstr ""
+
+#: u_translation.rssun
+msgid "Sun"
+msgstr "Солнце"
+
+#: u_translation.rssunelevation
+msgid "Sun elevation at start"
+msgstr ""
+
+#: u_translation.rssunelevation2
+msgid "Sun elevation range"
+msgstr ""
+
+#: u_translation.rssunelevation3
+msgid "Sun elevation on a formation"
+msgstr ""
+
+#: u_translation.rssunelevation4
+msgid "Sun elevation at end"
+msgstr ""
+
+#: u_translation.rssunrise
+msgid "Sun rise"
+msgstr "Восход Солнца"
+
+#: u_translation.rssunset
+msgid "Sun set"
+msgstr "Закат Солнца"
+
+#: u_translation.rsterminator
+msgid "Terminator"
+msgstr "Терминатор"
+
+#: u_translation.rstime
+msgid "Time"
+msgstr "Время"
+
+#: u_translation.rstimepredicti
+msgid "Prediction for increasing solar elevation"
+msgstr ""
+
+#: u_translation.rstimepredicti2
+msgid "Prediction for decreasing solar elevation"
+msgstr ""
+
+#: u_translation.rstimepredicti3
+msgid "Prediction for colongitude"
+msgstr ""
+
+#: u_translation.rstimezone
+msgid "Time Zone"
+msgstr "Часовой пояс"
+
+#: u_translation.rstitle
+msgid "Calclun"
+msgstr "Calclun"
+
+#: u_translation.rstoday
+msgid "Today"
+msgstr "Сегодня"
+
+#: u_translation.rstwilightandm
+msgid "Twilight and Moon visibility"
+msgstr "Сумерки и видимость Луны"
+
+#: u_translation.rsw
+msgid "W"
+msgstr "З"
+
+#: u_translation.rswest
+msgid "West"
+msgstr "Запад"
+
+#: u_translation.rsyear
+msgid "Year"
+msgstr "Год"
+

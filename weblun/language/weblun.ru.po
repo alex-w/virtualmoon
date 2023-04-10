@@ -1,0 +1,72 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: u_translation.rsabout
+msgid "About"
+msgstr "О..."
+
+#: u_translation.rsaddresse
+msgid "Addresse"
+msgstr "Адрес"
+
+#: u_translation.rsall
+msgid "All"
+msgstr "Все"
+
+#: u_translation.rsdescription
+msgid "Description"
+msgstr "Описание"
+
+#: u_translation.rsfile
+msgid "File"
+msgstr "Файл"
+
+#: u_translation.rshelp
+msgid "Help"
+msgstr "Помощь"
+
+#: u_translation.rshelp_prefix
+msgid "EN"
+msgstr "RU"
+
+#: u_translation.rslanguage
+msgid "Language"
+msgstr "Язык"
+
+#: u_translation.rsquit
+msgid "Quit"
+msgstr "Выход"
+
+#: u_translation.rsrecdate
+msgid "Recording date"
+msgstr "Дата записи"
+
+#: u_translation.rsresetselecti
+msgid "Reset selection"
+msgstr "Сбросить выделение"
+
+#: u_translation.rssearch
+msgid "Search"
+msgstr "Поиск"
+
+#: u_translation.rsselectedsite
+#, object-pascal-format
+msgid "%s selected sites."
+msgstr "% выбранных мест."
+
+#: u_translation.rssitename
+msgid "Site name"
+msgstr "Название места"
+
+#: u_translation.rssubthme
+msgid "Sub-theme"
+msgstr "Подтема"
+
+#: u_translation.rsthme
+msgid "Theme"
+msgstr "Тема"
+
+#: u_translation.rstranslator
+msgid "Translation: P. Chevalley / C. Legrand"
+msgstr ""
+
