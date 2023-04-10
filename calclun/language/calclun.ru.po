@@ -31,15 +31,15 @@ msgstr "Азимут"
 
 #: u_translation.rsbyday
 msgid "by day"
-msgstr ""
+msgstr "по дням"
 
 #: u_translation.rsbymonth
 msgid "by month"
-msgstr ""
+msgstr "по месяцам"
 
 #: u_translation.rsbyyear
 msgid "by year"
-msgstr ""
+msgstr "по годам"
 
 #: u_translation.rscancel
 msgid "Cancel"
@@ -51,7 +51,7 @@ msgstr "Закрыть"
 
 #: u_translation.rscolongitude
 msgid "Colongitude"
-msgstr ""
+msgstr "Кодолгота"
 
 #: u_translation.rscompute
 msgid "Compute"
@@ -59,11 +59,11 @@ msgstr "Вычислить"
 
 #: u_translation.rsconfiguratio
 msgid "Configuration"
-msgstr ""
+msgstr "Конфигурация"
 
 #: u_translation.rsconstraints
 msgid "Constraints"
-msgstr ""
+msgstr "Ограничения"
 
 #: u_translation.rscountry
 msgid "Country"
@@ -71,7 +71,7 @@ msgstr "Страна"
 
 #: u_translation.rsdatabasenotf
 msgid "Database not found! Run AtLun or DatLun to initialize the database."
-msgstr ""
+msgstr "База данных не найдена! Запусти AtLun или DatLun для инициализации базы данных."
 
 #: u_translation.rsdate
 msgid "Date"
@@ -127,11 +127,11 @@ msgstr "Высота"
 
 #: u_translation.rsenddate
 msgid "End date"
-msgstr ""
+msgstr "Дата окончания"
 
 #: u_translation.rsendtime
 msgid "End time"
-msgstr ""
+msgstr "Время окончания"
 
 #: u_translation.rsephemeris
 msgid "Ephemeris"
@@ -171,7 +171,7 @@ msgstr "Час"
 
 #: u_translation.rsillumination
 msgid "Illumination"
-msgstr ""
+msgstr "Освещено"
 
 #: u_translation.rsjanuary
 msgid "January"
@@ -191,7 +191,7 @@ msgstr "Язык"
 
 #: u_translation.rslanguage
 msgid "English"
-msgstr ""
+msgstr "Русский"
 
 #: u_translation.rslastquarter
 msgid "Last quarter"
@@ -207,7 +207,7 @@ msgstr "Либрация"
 
 #: u_translation.rslibrationext
 msgid "Libration extrema"
-msgstr ""
+msgstr "Либрационные экстремумы"
 
 #: u_translation.rslibrationlat
 msgid "Libration latitude"
@@ -239,7 +239,7 @@ msgstr "Март"
 
 #: u_translation.rsmaximum
 msgid "Maximum"
-msgstr ""
+msgstr "Максимум"
 
 #: u_translation.rsmay
 msgid "May"
@@ -247,7 +247,7 @@ msgstr "Май"
 
 #: u_translation.rsminimum
 msgid "Minimum"
-msgstr ""
+msgstr "Минимум"
 
 #: u_translation.rsmonth
 msgid "Month"
@@ -263,7 +263,7 @@ msgstr "Фаза Луны"
 
 #: u_translation.rsmoonvisiblef
 msgid "Moon visible from the observatory"
-msgstr ""
+msgstr "Луна видна из обсерватории"
 
 #: u_translation.rsn
 msgid "N"
@@ -299,11 +299,11 @@ msgstr "Хорошо"
 
 #: u_translation.rsonlynighteve
 msgid "Only night events"
-msgstr ""
+msgstr "Только ночные явления"
 
 #: u_translation.rspa
 msgid "PA"
-msgstr "П.У."
+msgstr "Позиц. угол"
 
 #: u_translation.rsphase
 msgid "Phase"
@@ -311,11 +311,11 @@ msgstr "Фаза"
 
 #: u_translation.rsprediction
 msgid "Prediction"
-msgstr "Предсказание"
+msgstr "Прогноз"
 
 #: u_translation.rspredictiondu
 msgid "Prediction duration"
-msgstr ""
+msgstr "Длительность прогноза"
 
 #: u_translation.rspredictionfo
 msgid "Prediction for libration, with formation illuminated"
@@ -331,11 +331,11 @@ msgstr "Вид. П.В."
 
 #: u_translation.rsrise
 msgid "Rise"
-msgstr "Закат"
+msgstr "Восход"
 
 #: u_translation.rsrisetime
 msgid "Rise time"
-msgstr "Время заката"
+msgstr "Время восхода"
 
 #: u_translation.rss
 msgid "S"
@@ -343,7 +343,7 @@ msgstr "Ю"
 
 #: u_translation.rssaveephemeri
 msgid "Save ephemeris to file"
-msgstr ""
+msgstr "Сохранить эфемериды в файл"
 
 #: u_translation.rssearch
 msgid "Search"
@@ -351,11 +351,11 @@ msgstr "Поиск"
 
 #: u_translation.rssearchformat
 msgid "Search formation"
-msgstr ""
+msgstr "Поиск образования"
 
 #: u_translation.rsselectgraph
 msgid "Select graph"
-msgstr ""
+msgstr "Выбрать график"
 
 #: u_translation.rsseptember
 msgid "September"
@@ -363,15 +363,15 @@ msgstr "Сентябрь"
 
 #: u_translation.rsset
 msgid "Set"
-msgstr "Восход"
+msgstr "Закат"
 
 #: u_translation.rssettime
 msgid "Set time"
-msgstr "Время восхода"
+msgstr "Время заката"
 
 #: u_translation.rssetup
 msgid "Setup"
-msgstr ""
+msgstr "Установки"
 
 #: u_translation.rssouth
 msgid "South"
@@ -379,11 +379,11 @@ msgstr "Юг"
 
 #: u_translation.rsstartdate
 msgid "Start date"
-msgstr ""
+msgstr "Дата начала"
 
 #: u_translation.rsstarttime
 msgid "Start time"
-msgstr ""
+msgstr "Время начала"
 
 #: u_translation.rssteps
 msgid "Steps"
@@ -391,7 +391,7 @@ msgstr "Шагов"
 
 #: u_translation.rssubsolarlati
 msgid "Sub-solar latitude"
-msgstr ""
+msgstr "Подсолнечная широта"
 
 #: u_translation.rssun
 msgid "Sun"
@@ -399,19 +399,19 @@ msgstr "Солнце"
 
 #: u_translation.rssunelevation
 msgid "Sun elevation at start"
-msgstr ""
+msgstr "Высота Солнца в начале"
 
 #: u_translation.rssunelevation2
 msgid "Sun elevation range"
-msgstr ""
+msgstr "Диапазон высот Солнца"
 
 #: u_translation.rssunelevation3
 msgid "Sun elevation on a formation"
-msgstr ""
+msgstr "Высота Солнца над образованием"
 
 #: u_translation.rssunelevation4
 msgid "Sun elevation at end"
-msgstr ""
+msgstr "Высота Солнца в конце"
 
 #: u_translation.rssunrise
 msgid "Sun rise"
@@ -431,15 +431,15 @@ msgstr "Время"
 
 #: u_translation.rstimepredicti
 msgid "Prediction for increasing solar elevation"
-msgstr ""
+msgstr "Прогноз увеличения высоты Солнца"
 
 #: u_translation.rstimepredicti2
 msgid "Prediction for decreasing solar elevation"
-msgstr ""
+msgstr "Прогноз уменьшения высоты Солнца"
 
 #: u_translation.rstimepredicti3
 msgid "Prediction for colongitude"
-msgstr ""
+msgstr "Прогноз для кодолготы"
 
 #: u_translation.rstimezone
 msgid "Time Zone"
