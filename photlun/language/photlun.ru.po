@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-08-14 21:48+0100\n"
+"Last-Translator: Patrick Chevalley <pch@freesurf.ch>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: u_translation.rsabout
+msgid "About ..."
+msgstr "О ..."
+
+#: u_translation.rsadjusttowind
+msgid "Adjust to window"
+msgstr ""
+
+#: u_translation.rsall
+msgid "All"
+msgstr "Все"
+
+#: u_translation.rsalllibraries
+msgid "All libraries"
+msgstr ""
+
+#: u_translation.rsbrighter
+msgid "Brighter"
+msgstr ""
+
+#: u_translation.rsbylibrary
+msgid "by library"
+msgstr ""
+
+#: u_translation.rsbyname
+msgid "by name"
+msgstr ""
+
+#: u_translation.rscancel
+msgid "Cancel"
+msgstr "Отмена"
+
+#: u_translation.rscloseallwind
+msgid "Close all window"
+msgstr ""
+
+#: u_translation.rsdarker
+msgid "Darker"
+msgstr ""
+
+#: u_translation.rsdatabase
+msgid "Database"
+msgstr "База данных"
+
+#: u_translation.rseastwest
+msgid "East<->West"
+msgstr "Восток<->Запад"
+
+#: u_translation.rsfile
+msgid "File"
+msgstr "Файл"
+
+#: u_translation.rsfolder
+msgid "Folder"
+msgstr "Каталог"
+
+#: u_translation.rsformationnam
+msgid "Formation name"
+msgstr "Название образования"
+
+#: u_translation.rsfullsize
+msgid "Full size"
+msgstr "Полный размер"
+
+#: u_translation.rshelp
+msgid "Help"
+msgstr "Помощь"
+
+#: u_translation.rshelp_prefix
+msgid "EN"
+msgstr "RU"
+
+#: u_translation.rshorizontalmi
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: u_translation.rsimagefolders
+msgid "Image folders:"
+msgstr ""
+
+#: u_translation.rsimagemirror
+msgid "Image mirror"
+msgstr ""
+
+#: u_translation.rsimages
+msgid "Images"
+msgstr "Изображения"
+
+#: u_translation.rsincreasecont
+msgid "Increase Contrast"
+msgstr ""
+
+#: u_translation.rslarge
+msgid "Large"
+msgstr "Больше"
+
+#: u_translation.rslibrary
+msgid "Library"
+msgstr "Библиотека"
+
+#: u_translation.rslibrarysetti
+msgid "Library Setting"
+msgstr "Настройки библиотеки"
+
+#: u_translation.rsmedium
+msgid "Medium"
+msgstr ""
+
+#: u_translation.rsname
+msgid "Name"
+msgstr "Название"
+
+#: u_translation.rsnone1
+msgid "None"
+msgstr "Нет"
+
+#: u_translation.rsnorthsouth
+msgid "North<->South"
+msgstr "Север<->Юг"
+
+#: u_translation.rsnumberofwind
+msgid "Number of window"
+msgstr ""
+
+#: u_translation.rsok
+msgid "OK"
+msgstr "Хорошо"
+
+#: u_translation.rsquit
+msgid "Quit"
+msgstr "Выход"
+
+#: u_translation.rsreducecontra
+msgid "Reduce Contrast"
+msgstr ""
+
+#: u_translation.rsresetdefault
+msgid "Reset default setting"
+msgstr ""
+
+#: u_translation.rsrotateclockw
+msgid "Rotate clockwise"
+msgstr ""
+
+#: u_translation.rsrotatecounte
+msgid "Rotate counterclockwise"
+msgstr ""
+
+#: u_translation.rsrotation
+msgid "Rotation"
+msgstr "Вращение"
+
+#: u_translation.rssavesetting
+msgid "Save setting"
+msgstr "Сохранить настройки"
+
+#: u_translation.rssearch
+msgid "Search"
+msgstr "Поиск"
+
+#: u_translation.rsselection
+msgid "Selection"
+msgstr "Выделение"
+
+#: u_translation.rsshowonmap
+msgid "Show on map"
+msgstr "Показать на карте"
+
+#: u_translation.rssize
+msgid "Size"
+msgstr "Размер"
+
+#: u_translation.rssmall
+msgid "Small"
+msgstr ""
+
+#: u_translation.rssort
+msgid "Sort"
+msgstr "Сортировка"
+
+#: u_translation.rstranslatedby
+msgid "Translated by :"
+msgstr "Translated by : Patrick Chevalley"
+
+#: u_translation.rsverticalmirr
+msgid "Vertical Mirror"
+msgstr ""
+
+#: u_translation.rsview
+msgid "View"
+msgstr ""
+
+#: u_translation.rsvignettes
+msgid "Vignettes"
+msgstr ""
+
+#: u_translation.rszoom
+msgid "Zoom"
+msgstr "Масштаб"
+
