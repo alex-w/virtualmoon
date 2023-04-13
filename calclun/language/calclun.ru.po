@@ -319,7 +319,7 @@ msgstr "Длительность прогноза"
 
 #: u_translation.rspredictionfo
 msgid "Prediction for libration, with formation illuminated"
-msgstr ""
+msgstr "Прогноз либрации, с освещением образования"
 
 #: u_translation.rsra2000
 msgid "RA 2000"

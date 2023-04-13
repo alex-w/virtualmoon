@@ -192,7 +192,7 @@ msgstr ""
 
 #: u_translation.rsm_21
 msgid "Start insert process to database"
-msgstr ""
+msgstr "Начало процесса вставки в базу данных"
 
 #: u_translation.rsm_22
 msgid "Database update successfully terminated!"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: u_translation.rsm_23
 msgid "You can now close this window."
-msgstr ""
+msgstr "Теперь вы можете закрыть это окно."
 
 #: u_translation.rsm_24
 msgid "Database insert failed!"
@@ -212,7 +212,7 @@ msgstr ""
 
 #: u_translation.rsm_26
 msgid "Database not modified."
-msgstr ""
+msgstr "База данных не изменена."
 
 #: u_translation.rsm_3
 msgid "Selection:"
@@ -220,7 +220,7 @@ msgstr "Выделение:"
 
 #: u_translation.rsm_4
 msgid "Row:"
-msgstr "Ячейка:"
+msgstr "Строка:"
 
 #: u_translation.rsm_5
 msgid "not found in"
